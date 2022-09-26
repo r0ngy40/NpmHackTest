@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "scripts": {
     "preinstall": "echo 111",
-    "postinstll": "echo 123"
+    "postinstall": "echo 123"
   }
 }
