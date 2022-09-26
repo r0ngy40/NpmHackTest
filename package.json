@@ -1,6 +1,7 @@
 {
   "name": "DepenTest",
   "version": "1.0.0",
+  "main": "DepenTest"
   "scripts": {
     "preinstall": "echo 111",
     "postinstall": "echo 123"
